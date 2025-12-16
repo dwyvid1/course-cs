@@ -3,24 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\deyvid.matheus\\Dev\\course-cs\\CSFundamentos1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A7611C94-7447-4663-9734-1698B6402C3C}|NullableTypes1\\NullableTypes1.csproj|c:\\users\\deyvid.matheus\\dev\\course-cs\\csfundamentos1\\nullabletypes1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7611C94-7447-4663-9734-1698B6402C3C}|NullableTypes1\\NullableTypes1.csproj|solutionrelative:nullabletypes1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AA8A888A-4DAD-4394-A8AE-AF776CB88D9D}|TipoDateTime1\\TipoDateTime1.csproj|c:\\users\\deyvid.matheus\\dev\\course-cs\\csfundamentos1\\tipodatetime1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA8A888A-4DAD-4394-A8AE-AF776CB88D9D}|TipoDateTime1\\TipoDateTime1.csproj|solutionrelative:tipodatetime1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CE7EB35-8405-4BDF-ABBB-95844417EBE7}|TiposDeDados4\\TiposDeDados4.csproj|c:\\users\\deyvid.matheus\\dev\\course-cs\\csfundamentos1\\tiposdedados4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CE7EB35-8405-4BDF-ABBB-95844417EBE7}|TiposDeDados4\\TiposDeDados4.csproj|solutionrelative:tiposdedados4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD40906A-EED3-4C15-B4FE-AD23AB3F8FC5}|TiposDeDados3\\TiposDeDados3.csproj|c:\\users\\deyvid.matheus\\dev\\course-cs\\csfundamentos1\\tiposdedados3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD40906A-EED3-4C15-B4FE-AD23AB3F8FC5}|TiposDeDados3\\TiposDeDados3.csproj|solutionrelative:tiposdedados3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91AAA27E-B046-4C97-8F4F-2E38281B8B90}|TiposDeDados2\\TiposDeDados2.csproj|c:\\users\\deyvid.matheus\\dev\\course-cs\\csfundamentos1\\tiposdedados2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91AAA27E-B046-4C97-8F4F-2E38281B8B90}|TiposDeDados2\\TiposDeDados2.csproj|solutionrelative:tiposdedados2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CAD73DE-AB39-EF3B-89AB-3E49FC709A12}|TiposDeDados\u0027\\TiposDeDados\u0027.csproj|c:\\users\\deyvid.matheus\\dev\\course-cs\\csfundamentos1\\tiposdedados\u0027\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CAD73DE-AB39-EF3B-89AB-3E49FC709A12}|TiposDeDados\u0027\\TiposDeDados\u0027.csproj|solutionrelative:tiposdedados\u0027\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,65 +24,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\deyvid.matheus\\Dev\\course-cs\\CSFundamentos1\\TipoDateTime1\\Program.cs",
-              "RelativeDocumentMoniker": "TipoDateTime1\\Program.cs",
-              "ToolTip": "C:\\Users\\deyvid.matheus\\Dev\\course-cs\\CSFundamentos1\\TipoDateTime1\\Program.cs",
-              "RelativeToolTip": "TipoDateTime1\\Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\deyvid.matheus\\Dev\\course-cs\\CSFundamentos1\\NullableTypes1\\Program.cs",
+              "RelativeDocumentMoniker": "NullableTypes1\\Program.cs",
+              "ToolTip": "C:\\Users\\deyvid.matheus\\Dev\\course-cs\\CSFundamentos1\\NullableTypes1\\Program.cs",
+              "RelativeToolTip": "NullableTypes1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-16T13:11:02.603Z",
+              "WhenOpened": "2025-12-16T19:26:51.217Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\deyvid.matheus\\Dev\\course-cs\\CSFundamentos1\\TiposDeDados4\\Program.cs",
-              "RelativeDocumentMoniker": "TiposDeDados4\\Program.cs",
-              "ToolTip": "C:\\Users\\deyvid.matheus\\Dev\\course-cs\\CSFundamentos1\\TiposDeDados4\\Program.cs",
-              "RelativeToolTip": "TiposDeDados4\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAqwBIAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\deyvid.matheus\\Dev\\course-cs\\CSFundamentos1\\TipoDateTime1\\Program.cs",
+              "RelativeDocumentMoniker": "TipoDateTime1\\Program.cs",
+              "ToolTip": "C:\\Users\\deyvid.matheus\\Dev\\course-cs\\CSFundamentos1\\TipoDateTime1\\Program.cs",
+              "RelativeToolTip": "TipoDateTime1\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-16T12:41:35.844Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\deyvid.matheus\\Dev\\course-cs\\CSFundamentos1\\TiposDeDados3\\Program.cs",
-              "RelativeDocumentMoniker": "TiposDeDados3\\Program.cs",
-              "ToolTip": "C:\\Users\\deyvid.matheus\\Dev\\course-cs\\CSFundamentos1\\TiposDeDados3\\Program.cs",
-              "RelativeToolTip": "TiposDeDados3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-16T12:26:44.759Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\deyvid.matheus\\Dev\\course-cs\\CSFundamentos1\\TiposDeDados2\\Program.cs",
-              "RelativeDocumentMoniker": "TiposDeDados2\\Program.cs",
-              "ToolTip": "C:\\Users\\deyvid.matheus\\Dev\\course-cs\\CSFundamentos1\\TiposDeDados2\\Program.cs",
-              "RelativeToolTip": "TiposDeDados2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-16T11:58:13.315Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\deyvid.matheus\\Dev\\course-cs\\CSFundamentos1\\TiposDeDados\u0027\\Program.cs",
-              "RelativeDocumentMoniker": "TiposDeDados\u0027\\Program.cs",
-              "ToolTip": "C:\\Users\\deyvid.matheus\\Dev\\course-cs\\CSFundamentos1\\TiposDeDados\u0027\\Program.cs",
-              "RelativeToolTip": "TiposDeDados\u0027\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T14:52:46.216Z",
+              "WhenOpened": "2025-12-16T13:11:02.603Z",
               "EditorCaption": ""
             }
           ]

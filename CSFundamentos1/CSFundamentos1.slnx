@@ -1,3 +1,7 @@
 <Solution>
+  <Project Path="TipoDateTime1/TipoDateTime1.csproj" Id="aa8a888a-4dad-4394-a8ae-af776cb88d9d" />
   <Project Path="TiposDeDados'/TiposDeDados'.csproj" />
+  <Project Path="TiposDeDados2/TiposDeDados2.csproj" Id="91aaa27e-b046-4c97-8f4f-2e38281b8b90" />
+  <Project Path="TiposDeDados3/TiposDeDados3.csproj" Id="cd40906a-eed3-4c15-b4fe-ad23ab3f8fc5" />
+  <Project Path="TiposDeDados4/TiposDeDados4.csproj" Id="0ce7eb35-8405-4bdf-abbb-95844417ebe7" />
 </Solution>

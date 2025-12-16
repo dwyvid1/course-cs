@@ -1,0 +1,15 @@
+C:\Users\deyvid.matheus\Dev\course-cs\CSFundamentos1\TiposDeDados2\bin\Debug\net10.0\TiposDeDados2.exe
+C:\Users\deyvid.matheus\Dev\course-cs\CSFundamentos1\TiposDeDados2\bin\Debug\net10.0\TiposDeDados2.deps.json
+C:\Users\deyvid.matheus\Dev\course-cs\CSFundamentos1\TiposDeDados2\bin\Debug\net10.0\TiposDeDados2.runtimeconfig.json
+C:\Users\deyvid.matheus\Dev\course-cs\CSFundamentos1\TiposDeDados2\bin\Debug\net10.0\TiposDeDados2.dll
+C:\Users\deyvid.matheus\Dev\course-cs\CSFundamentos1\TiposDeDados2\bin\Debug\net10.0\TiposDeDados2.pdb
+C:\Users\deyvid.matheus\Dev\course-cs\CSFundamentos1\TiposDeDados2\obj\Debug\net10.0\TiposDeDados2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deyvid.matheus\Dev\course-cs\CSFundamentos1\TiposDeDados2\obj\Debug\net10.0\TiposDeDados2.AssemblyInfoInputs.cache
+C:\Users\deyvid.matheus\Dev\course-cs\CSFundamentos1\TiposDeDados2\obj\Debug\net10.0\TiposDeDados2.AssemblyInfo.cs
+C:\Users\deyvid.matheus\Dev\course-cs\CSFundamentos1\TiposDeDados2\obj\Debug\net10.0\TiposDeDados2.csproj.CoreCompileInputs.cache
+C:\Users\deyvid.matheus\Dev\course-cs\CSFundamentos1\TiposDeDados2\obj\Debug\net10.0\TiposDeDados2.sourcelink.json
+C:\Users\deyvid.matheus\Dev\course-cs\CSFundamentos1\TiposDeDados2\obj\Debug\net10.0\TiposDeDados2.dll
+C:\Users\deyvid.matheus\Dev\course-cs\CSFundamentos1\TiposDeDados2\obj\Debug\net10.0\refint\TiposDeDados2.dll
+C:\Users\deyvid.matheus\Dev\course-cs\CSFundamentos1\TiposDeDados2\obj\Debug\net10.0\TiposDeDados2.pdb
+C:\Users\deyvid.matheus\Dev\course-cs\CSFundamentos1\TiposDeDados2\obj\Debug\net10.0\TiposDeDados2.genruntimeconfig.cache
+C:\Users\deyvid.matheus\Dev\course-cs\CSFundamentos1\TiposDeDados2\obj\Debug\net10.0\ref\TiposDeDados2.dll

@@ -1,11 +1,14 @@
 ﻿Console.WriteLine("## Nullable Types ##\n");
 
-int? i = null;
-double? d = null;
-bool? b = null;
+int? b = null;
 
-Console.WriteLine(i);
-Console.WriteLine(d);
-Console.WriteLine(b);
+if(b.HasValue)
+{
+    Console.WriteLine($"b = {b.Value}");
+}
+else
+{
+    Console.WriteLine("b não possui um valor (null)");
+}
 
 Console.ReadKey();

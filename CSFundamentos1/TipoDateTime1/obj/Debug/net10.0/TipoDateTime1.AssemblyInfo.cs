@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TipoDateTime1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70ca1bef82fcc29b1edc0ac85be9852803a202bb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9971992c8109895cbcdce454e05efa5b5ef0be4")]
 [assembly: System.Reflection.AssemblyProductAttribute("TipoDateTime1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TipoDateTime1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,15 +1,15 @@
 ﻿Console.WriteLine("## Conversão de tipos ##\n");
 
+int valorInt = 10;
+double valorDouble = 5.35;
+bool valorBool = true;
 
-double varDouble = 12.456; // 8 bytes
-int varInt = (int)varDouble; // 4 bytes (perda de precisão)
+Console.WriteLine(Convert.ToString(valorInt));
+Console.WriteLine(Convert.ToDouble(valorInt));
+Console.WriteLine(Convert.ToString(valorBool));
+Console.WriteLine(Convert.ToInt32(valorDouble));
 
-Console.WriteLine(varInt);
-
-int num1 = 10;
-int num2 = 4;
-
-float resultado = (float)num1 / (float)num2;
-Console.WriteLine(resultado);
+int varInt = 100000;
+Console.WriteLine(Convert.ToByte(varInt));
 
 Console.ReadLine();

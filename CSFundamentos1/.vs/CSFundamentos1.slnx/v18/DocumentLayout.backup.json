@@ -5,14 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{524E509B-C4CB-4270-A5B0-CDD25DF974AA}|1ConversaoTipos\\1ConversaoTipos.csproj|c:\\users\\deyvid.matheus\\dev\\course-cs\\csfundamentos1\\1conversaotipos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{524E509B-C4CB-4270-A5B0-CDD25DF974AA}|1ConversaoTipos\\1ConversaoTipos.csproj|solutionrelative:1conversaotipos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B34E8E5-C25D-4CB6-9BC3-C7CDF5F5FF2C}|SaidaDados2\\SaidaDados2.csproj|c:\\users\\deyvid.matheus\\dev\\course-cs\\csfundamentos1\\saidadados2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B34E8E5-C25D-4CB6-9BC3-C7CDF5F5FF2C}|SaidaDados2\\SaidaDados2.csproj|solutionrelative:saidadados2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE8F2D1A-FA7B-4D43-A03F-CB54EED1F915}|SaidaDados\\SaidaDados.csproj|c:\\users\\deyvid.matheus\\dev\\course-cs\\csfundamentos1\\saidadados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE8F2D1A-FA7B-4D43-A03F-CB54EED1F915}|SaidaDados\\SaidaDados.csproj|solutionrelative:saidadados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,37 +26,11 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\deyvid.matheus\\Dev\\course-cs\\CSFundamentos1\\1ConversaoTipos\\Program.cs",
               "RelativeDocumentMoniker": "1ConversaoTipos\\Program.cs",
-              "ToolTip": "C:\\Users\\deyvid.matheus\\Dev\\course-cs\\CSFundamentos1\\1ConversaoTipos\\Program.cs",
-              "RelativeToolTip": "1ConversaoTipos\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAwwBMAAAAiAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\deyvid.matheus\\Dev\\course-cs\\CSFundamentos1\\1ConversaoTipos\\Program.cs*",
+              "RelativeToolTip": "1ConversaoTipos\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-30T13:12:17.365Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\deyvid.matheus\\Dev\\course-cs\\CSFundamentos1\\SaidaDados2\\Program.cs",
-              "RelativeDocumentMoniker": "SaidaDados2\\Program.cs",
-              "ToolTip": "C:\\Users\\deyvid.matheus\\Dev\\course-cs\\CSFundamentos1\\SaidaDados2\\Program.cs",
-              "RelativeToolTip": "SaidaDados2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-30T12:43:53.744Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\deyvid.matheus\\Dev\\course-cs\\CSFundamentos1\\SaidaDados\\Program.cs",
-              "RelativeDocumentMoniker": "SaidaDados\\Program.cs",
-              "ToolTip": "C:\\Users\\deyvid.matheus\\Dev\\course-cs\\CSFundamentos1\\SaidaDados\\Program.cs",
-              "RelativeToolTip": "SaidaDados\\Program.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAAAB8AAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-22T12:38:51.852Z",
               "EditorCaption": ""
             }
           ]

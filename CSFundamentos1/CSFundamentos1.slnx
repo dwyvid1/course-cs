@@ -3,6 +3,7 @@
   <Project Path="EntradaDeDados/EntradaDeDados.csproj" Id="7bf82050-72de-40d3-bb24-12950eae75fc" />
   <Project Path="Identificadores/Identificadores.csproj" Id="6a5a7ef0-b931-4cd1-b83c-4e4b92183a95" />
   <Project Path="NullableTypes1/NullableTypes1.csproj" Id="a7611c94-7447-4663-9734-1698b6402c3c" />
+  <Project Path="OperadoresAritmeticos/OperadoresAritmeticos.csproj" Id="f1a6d6de-015a-410b-a34d-4b7f6c418a81" />
   <Project Path="SaidaDados/SaidaDados.csproj" Id="fe8f2d1a-fa7b-4d43-a03f-cb54eed1f915" />
   <Project Path="SaidaDados2/SaidaDados2.csproj" Id="3b34e8e5-c25d-4cb6-9bc3-c7cdf5f5ff2c" />
   <Project Path="TipoDateTime1/TipoDateTime1.csproj" Id="aa8a888a-4dad-4394-a8ae-af776cb88d9d" />
